@@ -1,0 +1,40 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/PNG/아기돼지삼형제/background.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "옛날, 숲속 마을에 엄마 돼지와 아기 돼지 삼형제가 살았습니다."
+	},
+	{
+		"type" : "Narration",
+		"content" : "첫째 돼지는 게으름뱅이여서 일은 하지 않고 매일 낮잠만 잤어요."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "첫째 돼지",
+		"img" : "Content/PNG/아기돼지삼형제/돼지 (1).png",
+		"content" : "아~~ 졸립다. 낮잠이나 자 볼까?"
+	},
+	{
+		"type" : "Narration",
+		"content" : "둘째 돼지는 굉장한 먹보에다가 덜렁이였죠."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "둘째 돼지",
+		"img" : "Content/PNG/아기돼지삼형제/돼지 (2).png",
+		"content" : "우와~~ 맛있다."
+	},
+	{
+		"type" : "Narration",
+		"content" : "하지만 셋째 돼지는 영리하고 부지런하여, 언제나 열심히 일을 했답니다."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "셋째 돼지",
+		"img" : "Content/PNG/아기돼지삼형제/돼지 (3).png",
+		"content" : "빨리 옮겨야겠다. 어유~ 무거워라."
+	}
+]
